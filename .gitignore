@@ -73,11 +73,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Clinic
+Content/Fab
 Content/ModSci_Engineer
 Content/ModSci_EngiProps
 Content/ModSciInteriors
 Content/Sci_fi_hallway
-Content/SciFI_Lite_Assets
-Content/Sci-FiMaterial
-Content/__ExternalActors__
-Content
+Content/SCI_FI_V2Mat
+Content/sci-fi_Lamp
+Content/SciFi_Props
+Content/SciFiDoors
+Content/StarterBundle
