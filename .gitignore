@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/ModSci_Engineer/Blueprints
+/Content/ModSci_Engineer
+/Content/ModSci_EngiProps
+/Content/ModSciInteriors
+/Content/sci-fi_Lamp
+/Content/Sci_fi_hallway
+/Content/SpaceshipInterior
